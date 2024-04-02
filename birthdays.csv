@@ -1,0 +1,3 @@
+name,email,year,month,day
+#the above is the format to add the birthdays to whom you want to send the birthday wish
+# example - PeterParker,addtheiremail@gmail.com,2000,03,12
